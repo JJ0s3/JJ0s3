@@ -32,12 +32,12 @@ Me gusta entender el problema, construir una solución y explicar cómo funciona
 <li>Matriz de confusión y curva ROC.</li>
 </ul>
 <p><code>Python</code> <code>pandas</code> <code>Dash</code> <code>Plotly</code> <code>scikit-learn</code></p>
-<p><a href="https://github.com/JJ0s3/tarea3-dashboard-breast-cancer">Código y documentación</a> · <a href="https://github.com/JJ0s3/tarea3-dashboard-breast-cancer/pull/1">Mejoras en revisión</a></p>
+<p><a href="https://github.com/JJ0s3/tarea3-dashboard-breast-cancer">Código y documentación</a> · <a href="https://github.com/JJ0s3/tarea3-dashboard-breast-cancer/pull/1">Mejoras integradas</a></p>
 </td>
 </tr>
 </table>
 
-<sub>Ejercicio educativo, sin validación para uso clínico. La ilustración utiliza datos del dataset público; no es una captura de la aplicación. Las correcciones ROC, las pruebas y la presentación adaptable están propuestas en el PR #1, aún sin fusionar.</sub>
+<sub>Ejercicio educativo, sin validación para uso clínico. La ilustración utiliza datos del dataset público; no es una captura de la aplicación. Las correcciones ROC, las pruebas y la presentación adaptable se integraron en main mediante el PR #1.</sub>
 
 ## Colaboración
 
